@@ -2,4 +2,4 @@
 
 Development files
 
-With working pci-e nvme ssd access
+Board design files with working pci-e nvme ssd access
